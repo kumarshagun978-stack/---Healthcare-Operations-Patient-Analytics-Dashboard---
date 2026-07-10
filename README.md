@@ -50,7 +50,6 @@ Tools & Technologies
 - 👨‍⚕️ Average patient revenue of $25.54K highlights treatment profitability and billing efficiency.
 - 🩺 Disease distribution analysis identified key medical conditions driving hospital admissions and resource demand.
 - 🛡️ Insurance coverage insights support reimbursement analysis and healthcare cost optimization.
-- 📈 Interactive dashboards and KPIs enable data-driven decision-making for hospital administrators through dynamic filtering and executive-level reporting.
   
 ---
 
