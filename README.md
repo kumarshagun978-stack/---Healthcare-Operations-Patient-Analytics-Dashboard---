@@ -4,7 +4,6 @@ Healthcare Operations & Patient Analytics Dashboard is an end-to-end Power BI pr
 
 📍Project Overview
 -
-
 The Healthcare Operations & Patient Analytics Dashboard is an end-to-end Business Intelligence solution developed in Power BI using a real-world healthcare dataset. This project transforms raw patient records into meaningful insights by analyzing patient admissions, total billing, revenue per patient, insurance coverage, medical conditions, blood groups, and demographic trends. Interactive filters for gender and admission year enable dynamic exploration of healthcare performance across multiple dimensions. Advanced Power Query transformations, data modeling, DAX measures, and interactive visualizations were used to build a scalable and user-friendly dashboard. This project demonstrates strong skills in data cleaning, ETL, KPI development, business intelligence reporting, and dashboard storytelling . 
 
 ---
@@ -21,18 +20,16 @@ The Healthcare Operations & Patient Analytics Dashboard is an end-to-end Busines
 
 Tools & Technologies
 - 
-
 - Power BI
 - Excel/CSV Dataset
 - Data Cleaning
 - Data Visulization
 - Dax Measures
 - SQL
-
+- 
 ---
 🎯 Project Objectives
 -
-
 - Enable dynamic analysis using Gender and Year filters for better decision-making and trend exploration.
 - Transform raw healthcare data into meaningful insights through Power Query, Data Modeling, and DAX calculations.
 - Build an executive-friendly dashboard with interactive visualizations to support hospital administrators and business stakeholders.
@@ -40,8 +37,6 @@ Tools & Technologies
 - Deliver actionable insights that help optimize healthcare operations, improve financial monitoring, and support strategic decision-making.
   
 ---
-  
-
 📈 Key Business Insights
 -
 
@@ -69,6 +64,5 @@ The Healthcare Operations & Patient Analytics Dashboard transforms 56K+ patient 
 - 💼 Role : Aspiring Data Analyst
 - 📧 Email :kumarshagun978@gmail.com
 - 🔗 LinkedIn :https://www.linkedin.com/in/shagun-8544962a0/
-- 📢 Open To Work : Data Analyst | BI Analyst | Business Analyst
-
+- 📢 Open to Data Analyst / BI Analyst / Business Analyst roles
 -----
