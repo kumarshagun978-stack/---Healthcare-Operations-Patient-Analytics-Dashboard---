@@ -59,7 +59,6 @@ Tools & Technologies
 ----
 ![Dashboard](dashboard.png)
 
--------
 -----
 💼 Solution
 -
