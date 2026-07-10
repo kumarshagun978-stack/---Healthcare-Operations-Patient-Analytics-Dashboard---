@@ -25,8 +25,7 @@ Tools & Technologies
 - Data Cleaning
 - Data Visulization
 - Dax Measures
-- SQL
-- 
+- Python(Numpy/Pandas)
 ---
 🎯 Project Objectives
 -
