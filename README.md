@@ -11,12 +11,12 @@ The Healthcare Operations & Patient Analytics Dashboard is an end-to-end Busines
 📊 Key Performance Indicators
 - 
 
-- 💰 Total Billing Amount : $1.42 Billion
+- 💰 Total Billing Amount : 1.42 Billion
  -Total revenue generated from patient treatments
 - 👨‍⚕️ Total Patients : 56,000+  -Total patient records analyzed across multiple years
-- 💵 Average Revenue per Patient : $25.54K  -The average revenue generated from each patient
+- 💵 Average Revenue per Patient : 25.54K  -The average revenue generated from each patient
 - 🎂 Average Patient Age : 51.54 Years  -Indicates that the majority of patients belong to the middle-aged
-- 📈 Highest Monthly Billing :≈ $25M  -Identifies peak revenue periods to support financial forecasting
+- 📈 Highest Monthly Billing :≈ 25M  -Identifies peak revenue periods to support financial forecasting
 
 ---
 
