@@ -58,9 +58,13 @@ Tools & Technologies
 ## Dashboard Preview
 ----
 ![Dashboard](dashboard.png)
+
+-------
+-----
 💼 Solution
 -
 The Healthcare Operations & Patient Analytics Dashboard transforms 56K+ patient records into actionable business insights through an interactive Power BI solution. It enables healthcare stakeholders to monitor $1.42 Billion in total billing, $25.54K average revenue per patient, patient admissions, insurance coverage, and medical condition trends from a single dashboard. With dynamic filters for Admission Year and Gender, users can quickly identify operational patterns and financial performance without manual reporting.By leveraging Power Query, Data Modeling, and DAX, the project automates reporting, improves data accuracy, and converts complex healthcare data into meaningful insights for executive-level decision-making.
+
 ---
 📬 Connect With Me
 - 
